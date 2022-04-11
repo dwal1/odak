@@ -57,5 +57,5 @@ setup(
         "Programming Language :: Python",
         "License :: OSI Approved :: Apache Software License",
     ],
-    python_requires='>=3.7.5',
+    python_requires='>=3.5.0',
 )
